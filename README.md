@@ -85,17 +85,4 @@ What type of analysis did you perform?
 Why did you choose to use certain analytical techniques over others?
 What were the results?
 Prepare a presentation that summarizes your analysis and recommendations and identify which company is performing better and is a better investment opportunity for XYZ.
-
-Deliverables of Week 2 are:
-
-1. EDA Notebook (ipynb file)
-
-2. Data Intake report (pdf file)
-
-3. EDA recommendation and hypothesis results ( It should be in the ipynb notebook and you don't need not to present separate document) 
-
-You can use either EDA or Modeling and EDA both to deliver the result.
-
-Remember, there are no wrong answers as long as the data supports them.
-
-Note: Sample presentation of previous batch intern, for your reference is added
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
