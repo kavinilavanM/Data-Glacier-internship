@@ -1,0 +1,18 @@
+file_type: csv
+dataset_name: file
+file_name: train
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+      - row_id
+      - timestamp
+      - user_id
+      - content_id
+      - content_type_id
+      - task_container_id
+      - user_answer
+      - answered_correctly
+      - prior_question_elapsed_time
+      - prior_question_had_explanation
